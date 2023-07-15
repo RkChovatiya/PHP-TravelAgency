@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.aboutimage{
+    width: 90%;
+    height: 250px!important;
+}
+
+.galleryimage{
+    width: 380px;
+}
