@@ -1,1 +1,1 @@
-# PHP-TravelAgency
+In this web site basically we gave a tour packages to customer for their vacations.for creating this site I used HTML, Bootstrap for frontend and for backend I used PHP for creating database to store customer personal information like name,email,mobile no. etc.
